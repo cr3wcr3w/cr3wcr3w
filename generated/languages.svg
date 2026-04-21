@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #41b883;width: 37.726%;" class="progress-item"></span><span style="background-color: #3178c6;width: 23.324%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 16.918%;" class="progress-item"></span><span style="background-color: #dea584;width: 6.501%;" class="progress-item"></span><span style="background-color: #663399;width: 6.427%;" class="progress-item"></span><span style="background-color: #3572A5;width: 3.779%;" class="progress-item"></span><span style="background-color: #b07219;width: 3.548%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.798%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.354%;" class="progress-item"></span><span style="background-color: #f7523f;width: 0.306%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.173%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.145%;" class="progress-item"></span>
+<span style="background-color: #3178c6;width: 44.864%;" class="progress-item"></span><span style="background-color: #dea584;width: 19.163%;" class="progress-item"></span><span style="background-color: #663399;width: 16.000%;" class="progress-item"></span><span style="background-color: #3572A5;width: 9.091%;" class="progress-item"></span><span style="background-color: #b07219;width: 8.535%;" class="progress-item"></span><span style="background-color: #89e051;width: 0.853%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.730%;" class="progress-item"></span><span style="background-color: #e34c26;width: 0.416%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.348%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -140,110 +140,83 @@ div.ellipsis {
 
 
 <li style="animation-delay: 0ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#41b883;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Vue</span>
-<span class="percent">37.73%</span>
-</li>
-
-
-<li style="animation-delay: 150ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3178c6;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">TypeScript</span>
-<span class="percent">23.32%</span>
+<span class="percent">44.86%</span>
 </li>
 
 
-<li style="animation-delay: 300ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#4F5D95;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">PHP</span>
-<span class="percent">16.92%</span>
-</li>
-
-
-<li style="animation-delay: 450ms;">
+<li style="animation-delay: 150ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#dea584;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Rust</span>
-<span class="percent">6.50%</span>
+<span class="percent">19.16%</span>
 </li>
 
 
-<li style="animation-delay: 600ms;">
+<li style="animation-delay: 300ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#663399;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">CSS</span>
-<span class="percent">6.43%</span>
+<span class="percent">16.00%</span>
 </li>
 
 
-<li style="animation-delay: 750ms;">
+<li style="animation-delay: 450ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Python</span>
-<span class="percent">3.78%</span>
+<span class="percent">9.09%</span>
 </li>
 
 
-<li style="animation-delay: 900ms;">
+<li style="animation-delay: 600ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#b07219;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Java</span>
-<span class="percent">3.55%</span>
+<span class="percent">8.54%</span>
 </li>
 
 
-<li style="animation-delay: 1050ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">JavaScript</span>
-<span class="percent">0.80%</span>
-</li>
-
-
-<li style="animation-delay: 1200ms;">
+<li style="animation-delay: 750ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#89e051;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Shell</span>
-<span class="percent">0.35%</span>
+<span class="percent">0.85%</span>
 </li>
 
 
-<li style="animation-delay: 1350ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f7523f;"
+<li style="animation-delay: 900ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">Blade</span>
-<span class="percent">0.31%</span>
+<span class="lang">JavaScript</span>
+<span class="percent">0.73%</span>
 </li>
 
 
-<li style="animation-delay: 1500ms;">
+<li style="animation-delay: 1050ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#e34c26;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">0.17%</span>
+<span class="percent">0.42%</span>
 </li>
 
 
-<li style="animation-delay: 1650ms;">
+<li style="animation-delay: 1200ms;">
 <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#384d54;"
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Dockerfile</span>
-<span class="percent">0.14%</span>
+<span class="percent">0.35%</span>
 </li>
 
 
