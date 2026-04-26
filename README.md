@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/cr3wcr3w/cr3wcr3w/master/generated/overview.svg" alt="Overview"/>
 </div> -->
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/cr3wcr3w/cr3wcr3w/master/generated/languages.svg" alt="Languages"/>
-</div>
+</p>
 
