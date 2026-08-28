@@ -29,10 +29,11 @@ I'm interested in **JavaScript**, **TypeScript**, and **Rust**, and I enjoy prac
 
 ```
  Web Development → React, Next.js, Astro, Tailwind CSS
- Systems Programming → Rust, Dioxus, Bash
- Infrastructure → Docker, Terraform, GitHub Actions
- Cybersecurity → Network security, CTF challenges
- Databases → PostgreSQL
+ Backend & APIs → Express, Hono.js
+ Systems & Desktop Apps → Rust, Dioxus, Tauri, Electron.js
+ Infrastructure & DevOps → Docker, Terraform, GitHub Actions, DigitalOcean
+ Databases & ORMs → PostgreSQL, SQLite, Drizzle
+ Tools & Security Practice → Postman, CTF challenges
 ```
 
 ---
