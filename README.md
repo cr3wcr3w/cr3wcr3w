@@ -59,6 +59,8 @@ I'm interested in **JavaScript**, **TypeScript**, and **Rust**, and I enjoy prac
 
 **Systems & UI**  
 ![Dioxus](https://img.shields.io/badge/Dioxus-000000?style=flat-square&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 **Infrastructure & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
