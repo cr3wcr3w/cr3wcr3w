@@ -28,7 +28,7 @@ I'm interested in **JavaScript**, **TypeScript**, and **Rust**, and I enjoy prac
 ## What I Work On Here
 
 ```
- Web Development → React, Next.js, Astro, Tailwind CSS
+ Web & Mobile Development → React, React Native, Next.js, Astro, Tailwind CSS
  Backend & APIs → Express, Hono.js
  Systems & Desktop Apps → Rust, Dioxus, Tauri, Electron.js
  Infrastructure & DevOps → Docker, Terraform, GitHub Actions, DigitalOcean
@@ -50,6 +50,7 @@ I'm interested in **JavaScript**, **TypeScript**, and **Rust**, and I enjoy prac
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
