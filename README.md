@@ -18,8 +18,9 @@
 ---
 
 ## About Me
+<!--
 I'm currently finishing my **BSIT degree in Network and Cybersecurity** at **Mapúa Malayan Digital College**.
-
+-->
 I'm interested in **JavaScript**, **TypeScript**, and **Rust**, and I enjoy practicing **Capture the Flag (CTF)** challenges on [Hack The Box](https://app.hackthebox.com/public/users/1946838).
 
 ---
